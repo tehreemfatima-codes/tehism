@@ -33,8 +33,6 @@ I am currently enrolled in 3 years diploma of software engineering from Aptech. 
 
 
 
-https://github.com/user-attachments/assets/555dfac1-c02d-45bd-846f-c50b10a413e5
-
 
 
 
