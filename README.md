@@ -95,7 +95,7 @@ I am currently enrolled in 3 years diploma of software engineering from Aptech. 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tehreemfatima/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
+    <img src="https://www.linkedin.com/in/tehreem-fatima-97364a310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app="  />
   </a>
 <!--   
   <a href="mailto:tehism672@gmail.com" target="_blank">
